@@ -1,0 +1,1 @@
+export { edit as BlockEditor } from "./dist/cli.js";
