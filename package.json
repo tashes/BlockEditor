@@ -4,6 +4,7 @@
 	"license": "MIT",
 	"bin": "dist/cli.js",
 	"type": "module",
+	"main": "index.js",
 	"engines": {
 		"node": ">=16"
 	},
