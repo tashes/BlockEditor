@@ -1,6 +1,6 @@
 {
-	"name": "blockeditor",
-	"version": "0.0.0",
+	"name": "@tamatashwin/blockeditor",
+	"version": "1.0.0",
 	"license": "MIT",
 	"bin": "dist/cli.js",
 	"type": "module",

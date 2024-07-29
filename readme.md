@@ -2,10 +2,12 @@
 
 A javascript library to run a blocks editor and return the data.
 
+Github: [https://github.com/tashes/BlockEditor](https://github.com/tashes/BlockEditor)
+
 ## Install
 
 ```bash
-$ npm install BlockEditor
+$ npm install @tamatashwin/blockeditor
 ```
 
 ## Usage
